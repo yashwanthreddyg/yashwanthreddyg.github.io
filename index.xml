@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yashwanth Reddy Gondi</title>
+    <link>/</link>
+    <description>Recent content on Yashwanth Reddy Gondi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2022 16:44:35 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/posts/about_me/</link>
+      <pubDate>Tue, 16 Aug 2022 16:44:35 -0700</pubDate>
+      
+      <guid>/posts/about_me/</guid>
+      <description>Hi
+My name is Yashwanth Reddy Gondi. I&amp;rsquo;m a software engineer specializing in backend development.
+I&amp;rsquo;m currently pursuing my Masters in Computer Science from the University of Southern California. I graduate in December 2022.
+I worked as a Software Engineer at Commvault between 2016 and 2020 for a period of 4.5 years.
+During the Summer of 2022, I worked as a Software Engineering Intern at (Stripe)[https://stripe.com/] in Seattle.
+I&amp;rsquo;m currently looking for full time opportunities in the United States.</description>
+      <content>&lt;p&gt;Hi&lt;/p&gt;
+&lt;p&gt;My name is Yashwanth Reddy Gondi. I&amp;rsquo;m a software engineer specializing in backend development.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently pursuing my Masters in Computer Science from the University of Southern California. I graduate in December 2022.&lt;/p&gt;
+&lt;p&gt;I worked as a Software Engineer at &lt;strong&gt;&lt;a href=&#34;https://www.commvault.com/&#34;&gt;Commvault&lt;/a&gt;&lt;/strong&gt; between 2016 and 2020 for a period of 4.5 years.&lt;/p&gt;
+&lt;p&gt;During the Summer of 2022, I worked as a Software Engineering Intern at &lt;strong&gt;(Stripe)[https://stripe.com/]&lt;/strong&gt; in Seattle.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently looking for full time opportunities in the United States.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Yashwanth Reddy Gondi</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Download PDF LinkedIn Github gondi@usc.edu
+Education University of Southern California - Jan 2021 - Dec 2022
+Masters in Computer Science Jawaharlal Nehru Technological University - Aug 2012 - May 2016
+Bachelors in Computer Science Work Experience Stripe - Seattle, WA - May 2022 - Aug 2022
+Software Engineering Intern Worked on making Stripe APIs highly available by minimizing latencies occurring from cross-region data accesses Utilized document sharding to intelligently redistribute data across hundreds of MongoDB replsets to minimize turnaround times Decreased risk of cross-region latencies from critical collections by 85%.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;/pdf/resume.pdf&#34;&gt;Download PDF&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/yashwanthreddyg&#34;&gt;LinkedIn&lt;/a&gt;
+&lt;a href=&#34;https://github.com/yashwanthreddyg&#34;&gt;Github&lt;/a&gt;
+&lt;a href=&#34;mailto:gondi@usc.edu&#34;&gt;gondi@usc.edu&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;University of Southern California&lt;/strong&gt; - Jan 2021 - Dec 2022&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Masters in Computer Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Jawaharlal Nehru Technological University&lt;/strong&gt; - Aug 2012 - May 2016&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bachelors in Computer Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://stripe.com/&#34;&gt;Stripe&lt;/a&gt;&lt;/strong&gt; - Seattle, WA - May 2022 - Aug 2022&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Software Engineering Intern
+&lt;ul&gt;
+&lt;li&gt;Worked on making Stripe APIs highly available by minimizing latencies occurring from cross-region data accesses&lt;/li&gt;
+&lt;li&gt;Utilized document sharding to intelligently redistribute data across hundreds of MongoDB replsets to minimize turnaround times&lt;/li&gt;
+&lt;li&gt;Decreased risk of cross-region latencies from critical collections by 85%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://commvault.com/&#34;&gt;Commvault&lt;/a&gt;&lt;/strong&gt; - Hyderabad, India - May 2016 - Dec 2020&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Senior Engineer II
+&lt;ul&gt;
+&lt;li&gt;Built new Commvault WebServer from ground up, enabling it to be cross-platform. Achieved it by creating a new framework in ASP.Net Core. Served as the application owner responsible for new features and code reviews.&lt;/li&gt;
+&lt;li&gt;Led several teams with 10s of developers in an effort to rewrite 1500+ REST APIs. Responsible for rewriting 150+ APIs to be compliant with new framework.&lt;/li&gt;
+&lt;li&gt;Developed a new P/Invoke based framework for the Commvault API layer to access Commvault’s native services.&lt;/li&gt;
+&lt;li&gt;Built new packaging framework for DotNet Core projects for Commvault. Responsible for the entire CI/CD workflow of DotNet for Windows and Unix at Commvault.&lt;/li&gt;
+&lt;li&gt;Brought down average response time for REST APIs by utilizing MongoDB as a caching server.&lt;/li&gt;
+&lt;li&gt;Author of Commvault API Gateway, a new WebServer module that allows customers to come up with custom APIs over Commvault’s infrastructure. It uses Liquid template language to construct requests and responses and supports pipelining/chaining of requests.&lt;/li&gt;
+&lt;li&gt;Trained and mentored experienced developers and interns in learning new framework. Hosted several training sessions on Dependency Injection, Middleware Architecture, Asynchronous Programming to write modular and maintainable code.&lt;/li&gt;
+&lt;li&gt;Contributed to CommVault’s efforts of having a 100% Linux offering and resulting in a much larger customer base for the company.&lt;/li&gt;
+&lt;li&gt;Added support for CDMI interface to Commvault’s ObjectStore. The application translates requests to and from a CDMI client to those compatible with Commvault’s ObjectStore.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Weenix Kernel&lt;/strong&gt; | C, Assembly&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A non-preemptive unix-like kernel capable of running userland programs&lt;/li&gt;
+&lt;li&gt;Built the scheduler, file-system and virtual memory as part of a team of 4&lt;/li&gt;
+&lt;li&gt;Built it as part of the Operating Systems course at USC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hyper-Video Player&lt;/strong&gt; | C#, XAML&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built an experimental video player and video editor for a type of media called hyper-media&lt;/li&gt;
+&lt;li&gt;Using the editor, users can stitch videos together like they were web-pages and the player would move them through different
+videos like a browser&lt;/li&gt;
+&lt;li&gt;This was the final project for the course Multimedia Systems Design at USC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Evaluating Significance of Emotion Classification in Emotion-Aware Empathetic Dialogue Systems&lt;/strong&gt; | Python, PyTorch&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigated improvements on a facebook-research paper which aimed to produce empathetic responses to user dialogue
+inputs&lt;/li&gt;
+&lt;li&gt;Used models like BiLSTM and Transformers not used in the original paper to evaluate the change in performance&lt;/li&gt;
+&lt;li&gt;This was part if the course ”Applied Natural Language Processing” at USC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt;: C#, C, C++, Java, Python, Javascript, SQL (SQL Server, Postgres), HTML/CSS&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: ASP.Net Core, MongoDB, Docker, Active MQ, Angular, Node.js, Express JS, NUnit, Swagger/OpenAPI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Developer Tools&lt;/strong&gt;: VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Postman, Git, Docker&lt;/p&gt;
+&lt;h1 id=&#34;leadership-and-involvement&#34;&gt;Leadership and Involvement&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Commvault Hackathon 2020 and served as lead programmer for Commvault BotFight 2020.&lt;/li&gt;
+&lt;li&gt;Won second prize winner in Flipkart’s 24hr Mobile Application Hackathon 2016&lt;/li&gt;
+&lt;li&gt;Ranked 102 in TCS’s nationwide competitive coding championship CodeVita 2015&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
