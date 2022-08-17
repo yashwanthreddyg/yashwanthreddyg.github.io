@@ -5,25 +5,24 @@
     <link>/</link>
     <description>Recent content on Yashwanth Reddy Gondi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 16:44:35 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>/posts/about_me/</link>
-      <pubDate>Tue, 16 Aug 2022 16:44:35 -0700</pubDate>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/about_me/</guid>
+      <guid>/about/</guid>
       <description>Hi
-My name is Yashwanth Reddy Gondi. I&amp;rsquo;m a software engineer specializing in backend development.
+I am Yashwanth Reddy Gondi. I&amp;rsquo;m a software engineer specializing in backend development.
 I&amp;rsquo;m currently pursuing my Masters in Computer Science from the University of Southern California. I graduate in December 2022.
+During the Summer of 2022, I worked as a Software Engineering Intern at Stripe in Seattle.
 I worked as a Software Engineer at Commvault between 2016 and 2020 for a period of 4.5 years.
-During the Summer of 2022, I worked as a Software Engineering Intern at (Stripe)[https://stripe.com/] in Seattle.
 I&amp;rsquo;m currently looking for full time opportunities in the United States.</description>
       <content>&lt;p&gt;Hi&lt;/p&gt;
-&lt;p&gt;My name is Yashwanth Reddy Gondi. I&amp;rsquo;m a software engineer specializing in backend development.&lt;/p&gt;
+&lt;p&gt;I am Yashwanth Reddy Gondi. I&amp;rsquo;m a software engineer specializing in backend development.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m currently pursuing my Masters in Computer Science from the University of Southern California. I graduate in December 2022.&lt;/p&gt;
+&lt;p&gt;During the Summer of 2022, I worked as a Software Engineering Intern at &lt;strong&gt;&lt;a href=&#34;https://stripe.com/&#34;&gt;Stripe&lt;/a&gt;&lt;/strong&gt; in Seattle.&lt;/p&gt;
 &lt;p&gt;I worked as a Software Engineer at &lt;strong&gt;&lt;a href=&#34;https://www.commvault.com/&#34;&gt;Commvault&lt;/a&gt;&lt;/strong&gt; between 2016 and 2020 for a period of 4.5 years.&lt;/p&gt;
-&lt;p&gt;During the Summer of 2022, I worked as a Software Engineering Intern at &lt;strong&gt;(Stripe)[https://stripe.com/]&lt;/strong&gt; in Seattle.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m currently looking for full time opportunities in the United States.&lt;/p&gt;
 </content>
     </item>
@@ -109,6 +108,7 @@ inputs&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: ASP.Net Core, MongoDB, Docker, Active MQ, Angular, Node.js, Express JS, NUnit, Swagger/OpenAPI&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Developer Tools&lt;/strong&gt;: VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Postman, Git, Docker&lt;/p&gt;
 &lt;h1 id=&#34;leadership-and-involvement&#34;&gt;Leadership and Involvement&lt;/h1&gt;
+&lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Managed Commvault Hackathon 2020 and served as lead programmer for Commvault BotFight 2020.&lt;/li&gt;
 &lt;li&gt;Won second prize winner in Flipkart’s 24hr Mobile Application Hackathon 2016&lt;/li&gt;
