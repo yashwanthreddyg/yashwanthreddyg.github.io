@@ -5,25 +5,35 @@
     <link>/</link>
     <description>Recent content on Yashwanth Reddy Gondi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi
-I am Yashwanth Reddy Gondi. I&amp;rsquo;m a software engineer specializing in backend development.
-I&amp;rsquo;m currently pursuing my Masters in Computer Science from the University of Southern California. I graduate in December 2022.
-During the Summer of 2022, I worked as a Software Engineering Intern at Stripe in Seattle.
-I worked as a Software Engineer at Commvault between 2016 and 2020 for a period of 4.5 years.
-I&amp;rsquo;m currently looking for full time opportunities in the United States.</description>
-      <content>&lt;p&gt;Hi&lt;/p&gt;
-&lt;p&gt;I am Yashwanth Reddy Gondi. I&amp;rsquo;m a software engineer specializing in backend development.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m currently pursuing my Masters in Computer Science from the University of Southern California. I graduate in December 2022.&lt;/p&gt;
-&lt;p&gt;During the Summer of 2022, I worked as a Software Engineering Intern at &lt;strong&gt;&lt;a href=&#34;https://stripe.com/&#34;&gt;Stripe&lt;/a&gt;&lt;/strong&gt; in Seattle.&lt;/p&gt;
-&lt;p&gt;I worked as a Software Engineer at &lt;strong&gt;&lt;a href=&#34;https://www.commvault.com/&#34;&gt;Commvault&lt;/a&gt;&lt;/strong&gt; between 2016 and 2020 for a period of 4.5 years.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m currently looking for full time opportunities in the United States.&lt;/p&gt;
+      <description>Hi! I am Yashwanth
+I&amp;rsquo;m a software engineer by trade. My current professional interests include
+Ad Measurement Solving problems using eventual consistency Batch and Stream processing Systems with high throughput/volume needs Systems with low latency needs I currently work for Amazon Ads where work on their Ad Measurement products.
+Here are some highlights of my time at Amazon so far -
+I was part of the team that delivered Consideration Metrics for advertisiers Enabled our Brand considetation metrics to comply with EU&amp;rsquo;s Digital Markets Act (DMA) Solved the problem of keeping our petabyte scale document data store up to date with global brand name changes.</description>
+      <content>&lt;p&gt;Hi! I am Yashwanth&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a software engineer by trade. My current professional interests include&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ad Measurement&lt;/li&gt;
+&lt;li&gt;Solving problems using eventual consistency&lt;/li&gt;
+&lt;li&gt;Batch and Stream processing&lt;/li&gt;
+&lt;li&gt;Systems with high throughput/volume needs&lt;/li&gt;
+&lt;li&gt;Systems with low latency needs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I currently work for Amazon Ads where work on their Ad Measurement products.&lt;/p&gt;
+&lt;p&gt;Here are some highlights of my time at Amazon so far -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://advertising.amazon.com/resources/whats-new/detail-page-view-metrics-are-available-globally&#34;&gt;I was part of the team that delivered Consideration Metrics for advertisiers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://advertising.amazon.com/blog/amazon-ads-and-the-digital-markets-act&#34;&gt;Enabled our Brand considetation metrics to comply with EU&amp;rsquo;s Digital Markets Act (DMA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Solved the problem of keeping our petabyte scale document data store up to date with global brand name changes. Utilized serverless compute to scale per demand and message queues to reduce blast radius in case of faulty data.&lt;/li&gt;
+&lt;li&gt;Working on making Amazon&amp;rsquo;s brand metrics transparent by solving the Brand-homonym problem.&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     
@@ -36,8 +46,8 @@ I&amp;rsquo;m currently looking for full time opportunities in the United States
       <description>Download PDF LinkedIn Github gondi@usc.edu
 Education University of Southern California - Jan 2021 - Dec 2022
 Masters in Computer Science Jawaharlal Nehru Technological University - Aug 2012 - May 2016
-Bachelors in Computer Science Work Experience Stripe - Seattle, WA - May 2022 - Aug 2022
-Software Engineering Intern Worked on making Stripe APIs highly available by minimizing latencies occurring from cross-region data accesses Utilized document sharding to intelligently redistribute data across hundreds of MongoDB replsets to minimize turnaround times Decreased risk of cross-region latencies from critical collections by 85%.</description>
+Bachelors in Computer Science Work Experience Amazon Ads - Santa Monica, CA - Feb 2023 - Preset
+Software Development Engineer II Working on large scale services and data pipelines that support conversion measurement across Amazon&amp;rsquo;s ecosystems. Helped bring Amazon Ads&amp;rsquo; New-To-Consideration metrics to market.</description>
       <content>&lt;p&gt;&lt;a href=&#34;/pdf/resume.pdf&#34;&gt;Download PDF&lt;/a&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/yashwanthreddyg&#34;&gt;LinkedIn&lt;/a&gt;
 &lt;a href=&#34;https://github.com/yashwanthreddyg&#34;&gt;Github&lt;/a&gt;
@@ -54,6 +64,18 @@ Software Engineering Intern Worked on making Stripe APIs highly available by min
 &lt;/ul&gt;
 &lt;h1 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h1&gt;
 &lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://advertising.amazon.com/&#34;&gt;Amazon Ads&lt;/a&gt;&lt;/strong&gt; - Santa Monica, CA - Feb 2023 - Preset&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Software Development Engineer II
+&lt;ul&gt;
+&lt;li&gt;Working on large scale services and data pipelines that support conversion measurement across Amazon&amp;rsquo;s ecosystems.&lt;/li&gt;
+&lt;li&gt;Helped bring Amazon Ads&amp;rsquo; New-To-Consideration metrics to market.&lt;/li&gt;
+&lt;li&gt;Solved the problem of keeping our petabyte scale document data store up to date with global brand name changes. Utilized serverless compute to scale per demand and message queues to reduce blast radius in case of faulty data.&lt;/li&gt;
+&lt;li&gt;Enabled our Brand metrics comply with EU&amp;rsquo;s Digital Markets Act (DMA).&lt;/li&gt;
+&lt;li&gt;Working on making Amazon&amp;rsquo;s brand metrics transparent by solving the homonym problem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://stripe.com/&#34;&gt;Stripe&lt;/a&gt;&lt;/strong&gt; - Seattle, WA - May 2022 - Aug 2022&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Software Engineering Intern
@@ -79,28 +101,6 @@ Software Engineering Intern Worked on making Stripe APIs highly available by min
 &lt;li&gt;Added support for CDMI interface to Commvault’s ObjectStore. The application translates requests to and from a CDMI client to those compatible with Commvault’s ObjectStore.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Weenix Kernel&lt;/strong&gt; | C, Assembly&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A non-preemptive unix-like kernel capable of running userland programs&lt;/li&gt;
-&lt;li&gt;Built the scheduler, file-system and virtual memory as part of a team of 4&lt;/li&gt;
-&lt;li&gt;Built it as part of the Operating Systems course at USC&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Hyper-Video Player&lt;/strong&gt; | C#, XAML&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built an experimental video player and video editor for a type of media called hyper-media&lt;/li&gt;
-&lt;li&gt;Using the editor, users can stitch videos together like they were web-pages and the player would move them through different
-videos like a browser&lt;/li&gt;
-&lt;li&gt;This was the final project for the course Multimedia Systems Design at USC&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Evaluating Significance of Emotion Classification in Emotion-Aware Empathetic Dialogue Systems&lt;/strong&gt; | Python, PyTorch&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Investigated improvements on a facebook-research paper which aimed to produce empathetic responses to user dialogue
-inputs&lt;/li&gt;
-&lt;li&gt;Used models like BiLSTM and Transformers not used in the original paper to evaluate the change in performance&lt;/li&gt;
-&lt;li&gt;This was part if the course ”Applied Natural Language Processing” at USC&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
 &lt;hr&gt;
